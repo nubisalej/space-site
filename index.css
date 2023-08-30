@@ -1,0 +1,47 @@
+@font-face {
+    src: url("BLADRMF_.TTF");
+    font-family: blade-runner;
+}
+
+#hero {
+    background-image: url("images/universe.webp");
+    background-size: 100%;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    color: white;
+    background-size: cover;
+    font-stretch: expanded;
+    font-family: blade-runner;
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    background-color: #311432;
+    color: white;
+    padding: 5px 12px 10px 12px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#underline {
+    border-bottom: 4px solid white;
+}
+
+#logo {
+    width: 30%;
+}
+
+h3 {
+    display: block;
+    color: darkblue;
+    font-family: 'Orbitron', sans-serif;
+
+}
+
+#header {
+    text-shadow: -5px 5px 5px black;
+    font-size: 60px;
+}
